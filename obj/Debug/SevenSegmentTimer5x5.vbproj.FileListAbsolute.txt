@@ -1,0 +1,11 @@
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\bin\Debug\5x5SevenSegmentTimer.exe.config
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\bin\Debug\5x5SevenSegmentTimer.exe
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\bin\Debug\5x5SevenSegmentTimer.pdb
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\bin\Debug\5x5SevenSegmentTimer.xml
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\SevenSegmentTimer5x5.vbprojAssemblyReference.cache
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\_5x5SevenSegmentTimer.Form1.resources
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\_5x5SevenSegmentTimer.Resources.resources
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\SevenSegmentTimer5x5.vbproj.GenerateResource.cache
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\5x5SevenSegmentTimer.exe
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\5x5SevenSegmentTimer.xml
+C:\Users\Rafamus\source\repos\5x5SevenSegmentTimer\obj\Debug\5x5SevenSegmentTimer.pdb
